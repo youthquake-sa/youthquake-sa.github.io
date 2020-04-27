@@ -1,0 +1,132 @@
+C:\Users\User1\Desktop\youthquake\youthquake\youthquake\bin\roslyn\csc.exe
+C:\Users\User1\Desktop\youthquake\youthquake\youthquake\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User1\Desktop\youthquake\youthquake\youthquake\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User1\Desktop\youthquake\youthquake\youthquake\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User1\Desktop\youthquake\youthquake\youthquake\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User1\Desktop\youthquake\youthquake\youthquake\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User1\Desktop\youthquake\youthquake\youthquake\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User1\Desktop\youthquake\youthquake\youthquake\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User1\Desktop\youthquake\youthquake\youthquake\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User1\Desktop\youthquake\youthquake\youthquake\bin\roslyn\vbc.exe
+C:\Users\User1\Desktop\youthquake\youthquake\youthquake\bin\roslyn\VBCSCompiler.exe
+C:\Users\User1\Desktop\youthquake\youthquake\youthquake\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User1\Desktop\youthquake\youthquake\youthquake\bin\youthquake.dll.config
+C:\Users\User1\Desktop\youthquake\youthquake\youthquake\bin\youthquake.dll
+C:\Users\User1\Desktop\youthquake\youthquake\youthquake\bin\youthquake.pdb
+C:\Users\User1\Desktop\youthquake\youthquake\youthquake\bin\Antlr3.Runtime.dll
+C:\Users\User1\Desktop\youthquake\youthquake\youthquake\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\User1\Desktop\youthquake\youthquake\youthquake\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\User1\Desktop\youthquake\youthquake\youthquake\bin\EntityFramework.dll
+C:\Users\User1\Desktop\youthquake\youthquake\youthquake\bin\EntityFramework.SqlServer.dll
+C:\Users\User1\Desktop\youthquake\youthquake\youthquake\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\User1\Desktop\youthquake\youthquake\youthquake\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\User1\Desktop\youthquake\youthquake\youthquake\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\User1\Desktop\youthquake\youthquake\youthquake\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\User1\Desktop\youthquake\youthquake\youthquake\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\User1\Desktop\youthquake\youthquake\youthquake\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User1\Desktop\youthquake\youthquake\youthquake\bin\Microsoft.Owin.dll
+C:\Users\User1\Desktop\youthquake\youthquake\youthquake\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\User1\Desktop\youthquake\youthquake\youthquake\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\User1\Desktop\youthquake\youthquake\youthquake\bin\Microsoft.Owin.Security.dll
+C:\Users\User1\Desktop\youthquake\youthquake\youthquake\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\User1\Desktop\youthquake\youthquake\youthquake\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\User1\Desktop\youthquake\youthquake\youthquake\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\User1\Desktop\youthquake\youthquake\youthquake\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\User1\Desktop\youthquake\youthquake\youthquake\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\User1\Desktop\youthquake\youthquake\youthquake\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\User1\Desktop\youthquake\youthquake\youthquake\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\User1\Desktop\youthquake\youthquake\youthquake\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User1\Desktop\youthquake\youthquake\youthquake\bin\Newtonsoft.Json.dll
+C:\Users\User1\Desktop\youthquake\youthquake\youthquake\bin\Owin.dll
+C:\Users\User1\Desktop\youthquake\youthquake\youthquake\bin\System.Web.Optimization.dll
+C:\Users\User1\Desktop\youthquake\youthquake\youthquake\bin\System.Web.Providers.dll
+C:\Users\User1\Desktop\youthquake\youthquake\youthquake\bin\WebGrease.dll
+C:\Users\User1\Desktop\youthquake\youthquake\youthquake\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User1\Desktop\youthquake\youthquake\youthquake\bin\System.Web.Optimization.xml
+C:\Users\User1\Desktop\youthquake\youthquake\youthquake\bin\Antlr3.Runtime.pdb
+C:\Users\User1\Desktop\youthquake\youthquake\youthquake\bin\Newtonsoft.Json.xml
+C:\Users\User1\Desktop\youthquake\youthquake\youthquake\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\User1\Desktop\youthquake\youthquake\youthquake\bin\EntityFramework.xml
+C:\Users\User1\Desktop\youthquake\youthquake\youthquake\bin\EntityFramework.SqlServer.xml
+C:\Users\User1\Desktop\youthquake\youthquake\youthquake\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\User1\Desktop\youthquake\youthquake\youthquake\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\User1\Desktop\youthquake\youthquake\youthquake\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\User1\Desktop\youthquake\youthquake\youthquake\bin\System.Web.Providers.xml
+C:\Users\User1\Desktop\youthquake\youthquake\youthquake\bin\Microsoft.Owin.xml
+C:\Users\User1\Desktop\youthquake\youthquake\youthquake\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\User1\Desktop\youthquake\youthquake\youthquake\bin\Microsoft.Owin.Security.xml
+C:\Users\User1\Desktop\youthquake\youthquake\youthquake\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\User1\Desktop\youthquake\youthquake\youthquake\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\User1\Desktop\youthquake\youthquake\youthquake\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\User1\Desktop\youthquake\youthquake\youthquake\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\User1\Desktop\youthquake\youthquake\youthquake\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\User1\Desktop\youthquake\youthquake\youthquake\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\User1\Desktop\youthquake\youthquake\youthquake\obj\Debug\youthquake.csprojResolveAssemblyReference.cache
+C:\Users\User1\Desktop\youthquake\youthquake\youthquake\obj\Debug\youthquake.dll
+C:\Users\User1\Desktop\youthquake\youthquake\youthquake\obj\Debug\youthquake.pdb
+C:\Users\User1\Desktop\BURNING BUSH\Youth Quake\YQ Website\UPDATED FINAL WEBSITE\youthquake\youthquake\youthquake\bin\roslyn\csc.exe
+C:\Users\User1\Desktop\BURNING BUSH\Youth Quake\YQ Website\UPDATED FINAL WEBSITE\youthquake\youthquake\youthquake\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User1\Desktop\BURNING BUSH\Youth Quake\YQ Website\UPDATED FINAL WEBSITE\youthquake\youthquake\youthquake\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User1\Desktop\BURNING BUSH\Youth Quake\YQ Website\UPDATED FINAL WEBSITE\youthquake\youthquake\youthquake\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User1\Desktop\BURNING BUSH\Youth Quake\YQ Website\UPDATED FINAL WEBSITE\youthquake\youthquake\youthquake\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User1\Desktop\BURNING BUSH\Youth Quake\YQ Website\UPDATED FINAL WEBSITE\youthquake\youthquake\youthquake\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User1\Desktop\BURNING BUSH\Youth Quake\YQ Website\UPDATED FINAL WEBSITE\youthquake\youthquake\youthquake\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User1\Desktop\BURNING BUSH\Youth Quake\YQ Website\UPDATED FINAL WEBSITE\youthquake\youthquake\youthquake\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User1\Desktop\BURNING BUSH\Youth Quake\YQ Website\UPDATED FINAL WEBSITE\youthquake\youthquake\youthquake\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User1\Desktop\BURNING BUSH\Youth Quake\YQ Website\UPDATED FINAL WEBSITE\youthquake\youthquake\youthquake\bin\roslyn\vbc.exe
+C:\Users\User1\Desktop\BURNING BUSH\Youth Quake\YQ Website\UPDATED FINAL WEBSITE\youthquake\youthquake\youthquake\bin\roslyn\VBCSCompiler.exe
+C:\Users\User1\Desktop\BURNING BUSH\Youth Quake\YQ Website\UPDATED FINAL WEBSITE\youthquake\youthquake\youthquake\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User1\Desktop\BURNING BUSH\Youth Quake\YQ Website\UPDATED FINAL WEBSITE\youthquake\youthquake\youthquake\bin\youthquake.dll.config
+C:\Users\User1\Desktop\BURNING BUSH\Youth Quake\YQ Website\UPDATED FINAL WEBSITE\youthquake\youthquake\youthquake\bin\youthquake.dll
+C:\Users\User1\Desktop\BURNING BUSH\Youth Quake\YQ Website\UPDATED FINAL WEBSITE\youthquake\youthquake\youthquake\bin\youthquake.pdb
+C:\Users\User1\Desktop\BURNING BUSH\Youth Quake\YQ Website\UPDATED FINAL WEBSITE\youthquake\youthquake\youthquake\bin\Antlr3.Runtime.dll
+C:\Users\User1\Desktop\BURNING BUSH\Youth Quake\YQ Website\UPDATED FINAL WEBSITE\youthquake\youthquake\youthquake\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\User1\Desktop\BURNING BUSH\Youth Quake\YQ Website\UPDATED FINAL WEBSITE\youthquake\youthquake\youthquake\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\User1\Desktop\BURNING BUSH\Youth Quake\YQ Website\UPDATED FINAL WEBSITE\youthquake\youthquake\youthquake\bin\EntityFramework.dll
+C:\Users\User1\Desktop\BURNING BUSH\Youth Quake\YQ Website\UPDATED FINAL WEBSITE\youthquake\youthquake\youthquake\bin\EntityFramework.SqlServer.dll
+C:\Users\User1\Desktop\BURNING BUSH\Youth Quake\YQ Website\UPDATED FINAL WEBSITE\youthquake\youthquake\youthquake\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\User1\Desktop\BURNING BUSH\Youth Quake\YQ Website\UPDATED FINAL WEBSITE\youthquake\youthquake\youthquake\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\User1\Desktop\BURNING BUSH\Youth Quake\YQ Website\UPDATED FINAL WEBSITE\youthquake\youthquake\youthquake\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\User1\Desktop\BURNING BUSH\Youth Quake\YQ Website\UPDATED FINAL WEBSITE\youthquake\youthquake\youthquake\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\User1\Desktop\BURNING BUSH\Youth Quake\YQ Website\UPDATED FINAL WEBSITE\youthquake\youthquake\youthquake\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\User1\Desktop\BURNING BUSH\Youth Quake\YQ Website\UPDATED FINAL WEBSITE\youthquake\youthquake\youthquake\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User1\Desktop\BURNING BUSH\Youth Quake\YQ Website\UPDATED FINAL WEBSITE\youthquake\youthquake\youthquake\bin\Microsoft.Owin.dll
+C:\Users\User1\Desktop\BURNING BUSH\Youth Quake\YQ Website\UPDATED FINAL WEBSITE\youthquake\youthquake\youthquake\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\User1\Desktop\BURNING BUSH\Youth Quake\YQ Website\UPDATED FINAL WEBSITE\youthquake\youthquake\youthquake\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\User1\Desktop\BURNING BUSH\Youth Quake\YQ Website\UPDATED FINAL WEBSITE\youthquake\youthquake\youthquake\bin\Microsoft.Owin.Security.dll
+C:\Users\User1\Desktop\BURNING BUSH\Youth Quake\YQ Website\UPDATED FINAL WEBSITE\youthquake\youthquake\youthquake\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\User1\Desktop\BURNING BUSH\Youth Quake\YQ Website\UPDATED FINAL WEBSITE\youthquake\youthquake\youthquake\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\User1\Desktop\BURNING BUSH\Youth Quake\YQ Website\UPDATED FINAL WEBSITE\youthquake\youthquake\youthquake\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\User1\Desktop\BURNING BUSH\Youth Quake\YQ Website\UPDATED FINAL WEBSITE\youthquake\youthquake\youthquake\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\User1\Desktop\BURNING BUSH\Youth Quake\YQ Website\UPDATED FINAL WEBSITE\youthquake\youthquake\youthquake\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\User1\Desktop\BURNING BUSH\Youth Quake\YQ Website\UPDATED FINAL WEBSITE\youthquake\youthquake\youthquake\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\User1\Desktop\BURNING BUSH\Youth Quake\YQ Website\UPDATED FINAL WEBSITE\youthquake\youthquake\youthquake\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\User1\Desktop\BURNING BUSH\Youth Quake\YQ Website\UPDATED FINAL WEBSITE\youthquake\youthquake\youthquake\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User1\Desktop\BURNING BUSH\Youth Quake\YQ Website\UPDATED FINAL WEBSITE\youthquake\youthquake\youthquake\bin\Newtonsoft.Json.dll
+C:\Users\User1\Desktop\BURNING BUSH\Youth Quake\YQ Website\UPDATED FINAL WEBSITE\youthquake\youthquake\youthquake\bin\Owin.dll
+C:\Users\User1\Desktop\BURNING BUSH\Youth Quake\YQ Website\UPDATED FINAL WEBSITE\youthquake\youthquake\youthquake\bin\System.Web.Optimization.dll
+C:\Users\User1\Desktop\BURNING BUSH\Youth Quake\YQ Website\UPDATED FINAL WEBSITE\youthquake\youthquake\youthquake\bin\System.Web.Providers.dll
+C:\Users\User1\Desktop\BURNING BUSH\Youth Quake\YQ Website\UPDATED FINAL WEBSITE\youthquake\youthquake\youthquake\bin\WebGrease.dll
+C:\Users\User1\Desktop\BURNING BUSH\Youth Quake\YQ Website\UPDATED FINAL WEBSITE\youthquake\youthquake\youthquake\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User1\Desktop\BURNING BUSH\Youth Quake\YQ Website\UPDATED FINAL WEBSITE\youthquake\youthquake\youthquake\bin\System.Web.Optimization.xml
+C:\Users\User1\Desktop\BURNING BUSH\Youth Quake\YQ Website\UPDATED FINAL WEBSITE\youthquake\youthquake\youthquake\bin\Antlr3.Runtime.pdb
+C:\Users\User1\Desktop\BURNING BUSH\Youth Quake\YQ Website\UPDATED FINAL WEBSITE\youthquake\youthquake\youthquake\bin\Newtonsoft.Json.xml
+C:\Users\User1\Desktop\BURNING BUSH\Youth Quake\YQ Website\UPDATED FINAL WEBSITE\youthquake\youthquake\youthquake\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\User1\Desktop\BURNING BUSH\Youth Quake\YQ Website\UPDATED FINAL WEBSITE\youthquake\youthquake\youthquake\bin\EntityFramework.xml
+C:\Users\User1\Desktop\BURNING BUSH\Youth Quake\YQ Website\UPDATED FINAL WEBSITE\youthquake\youthquake\youthquake\bin\EntityFramework.SqlServer.xml
+C:\Users\User1\Desktop\BURNING BUSH\Youth Quake\YQ Website\UPDATED FINAL WEBSITE\youthquake\youthquake\youthquake\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\User1\Desktop\BURNING BUSH\Youth Quake\YQ Website\UPDATED FINAL WEBSITE\youthquake\youthquake\youthquake\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\User1\Desktop\BURNING BUSH\Youth Quake\YQ Website\UPDATED FINAL WEBSITE\youthquake\youthquake\youthquake\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\User1\Desktop\BURNING BUSH\Youth Quake\YQ Website\UPDATED FINAL WEBSITE\youthquake\youthquake\youthquake\bin\System.Web.Providers.xml
+C:\Users\User1\Desktop\BURNING BUSH\Youth Quake\YQ Website\UPDATED FINAL WEBSITE\youthquake\youthquake\youthquake\bin\Microsoft.Owin.xml
+C:\Users\User1\Desktop\BURNING BUSH\Youth Quake\YQ Website\UPDATED FINAL WEBSITE\youthquake\youthquake\youthquake\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\User1\Desktop\BURNING BUSH\Youth Quake\YQ Website\UPDATED FINAL WEBSITE\youthquake\youthquake\youthquake\bin\Microsoft.Owin.Security.xml
+C:\Users\User1\Desktop\BURNING BUSH\Youth Quake\YQ Website\UPDATED FINAL WEBSITE\youthquake\youthquake\youthquake\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\User1\Desktop\BURNING BUSH\Youth Quake\YQ Website\UPDATED FINAL WEBSITE\youthquake\youthquake\youthquake\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\User1\Desktop\BURNING BUSH\Youth Quake\YQ Website\UPDATED FINAL WEBSITE\youthquake\youthquake\youthquake\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\User1\Desktop\BURNING BUSH\Youth Quake\YQ Website\UPDATED FINAL WEBSITE\youthquake\youthquake\youthquake\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\User1\Desktop\BURNING BUSH\Youth Quake\YQ Website\UPDATED FINAL WEBSITE\youthquake\youthquake\youthquake\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\User1\Desktop\BURNING BUSH\Youth Quake\YQ Website\UPDATED FINAL WEBSITE\youthquake\youthquake\youthquake\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\User1\Desktop\BURNING BUSH\Youth Quake\YQ Website\UPDATED FINAL WEBSITE\youthquake\youthquake\youthquake\obj\Debug\youthquake.csprojResolveAssemblyReference.cache
+C:\Users\User1\Desktop\BURNING BUSH\Youth Quake\YQ Website\UPDATED FINAL WEBSITE\youthquake\youthquake\youthquake\obj\Debug\youthquake.dll
+C:\Users\User1\Desktop\BURNING BUSH\Youth Quake\YQ Website\UPDATED FINAL WEBSITE\youthquake\youthquake\youthquake\obj\Debug\youthquake.pdb
